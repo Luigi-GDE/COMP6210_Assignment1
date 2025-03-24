@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import scp from "./scp.json";
+import scp from "/src/data/scp.json";
 
 function ScpDetails() {
     //get subject details from url

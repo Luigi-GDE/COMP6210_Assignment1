@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route, Navigate, useLocation } from "react-router-dom";
-import NavMenu from "./NavMenu.jsx";
-import DisplayPage from "./DisplayPage.jsx";
-import Card from "./Card.jsx";
-import Intro from "./Intro.jsx";
+import NavMenu from "./components/NavMenu.jsx";
+import DisplayPage from "./components/DisplayPage.jsx";
+import Card from "./components/Card.jsx";
+import Intro from "./components/Intro.jsx";
 
 
 //function needed to make use of intro and card routes better

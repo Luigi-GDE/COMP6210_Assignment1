@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import scp from './scp.json';
+import scp from '/src/data/scp.json';
 
 //card component for home page
 function Card(){
