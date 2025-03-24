@@ -1,0 +1,40 @@
+[
+     
+    {
+        "subject": "SCP-002",
+        "class": "Euclid",
+        "img": "/media/800px-SCP002.jpg",
+        "desc": "SCP-002 is a large, fleshy growth with a volume of about 60 m³ (2000 ft³), featuring an iron valve hatch leading to its interior. Inside, the space resembles a modest low-rent apartment, complete with furniture made from sculpted bone, woven hair, and other biological materials. A single window is present on one wall, although it is not visible from the outside. Analysis reveals that all objects in the room contain independent or fragmented human DNA sequences.",
+        "contain": "SCP-002 must remain connected to a power supply to stay in recharging mode. In case of a power outage, close the emergency barrier and evacuate the area. Once power is restored, use alternating X-ray and ultraviolet light bursts to reaffix SCP-002 to the power supply. The containment area must be kept at negative air pressure, and teams of at least two members must stay within 20 meters of SCP-002, maintaining physical contact to counteract potential perception issues. Personnel below Level 3 are not allowed near SCP-002 unless authorized by two off-site Level 4 administrators. Command staff with such authorization must be escorted by five Level 3 Security personnel, surrender their rank and clearance temporarily, and undergo a 72-hour quarantine and psychological evaluation post-contact before returning to duty."
+    },
+    
+    {
+        "subject": "SCP-003",
+        "class": "Euclid",
+        "img": "/media/SCP-003.jpg",
+        "desc": "SCP-003 comprises two components: SCP-003-1, a chitin, hair, and nail structure resembling a computer motherboard, and SCP-003-2, a stone tablet with unknown runes and an internal non-biological computer. SCP-003-1, which predates circuit boards by thousands of years, is sentient but only dangerous under certain conditions. SCP-003-2, controlled by its internal computer, emits various types of radiation and has an anomalous power source that has been depleting for centuries, likely designed to contain SCP-003-1. When SCP-003's temperature drops below 35°C, SCP-003-1 begins to grow exponentially, first forming a 15-meter diameter structure similar to a brittle star, then converting surrounding matter. In the second growth stage, SCP-003-1 interacts with living organic material, slowing its growth but altering its physical makeup. SCP-003-2 releases radiation to inhibit or reverse SCP-003-1's growth if its temperature exceeds 100°C. SCP-003-1's biology shares similarities with other SCP objects, but its full connections and mimicry mechanisms remain unexplained.",
+        "contain": "SCP-003 must be kept at a temperature of no less than 35°C, ideally above 100°C. Contact with living multicellular organisms of Category IV or higher is prohibited. In case of total power failure and SCP-003-1 starts increasing its mass, personnel should maintain skin contact with SCP-003-1 to help return it to a safe temperature, continuing until SCP-003-1 reaches its second growth stage. Personnel must be checked and sterilized for Category IV or higher parasites before entering SCP-003's containment area, and any contact with SCP-003-1 requires immediate sterilization. SCP-003-1 should only be removed from SCP-003-2 in emergencies. Any significant changes in SCP-003-2's rune activity must be reported within three hours, and cessation of rune activity must be reported immediately. SCP-003-2 must be powered by Generator 003-IX at all times."
+    },
+    {
+        "subject": "SCP-004",
+        "class": "Euclid",
+        "img": "/media/SCP004_door.jpg",
+        "desc": "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door itself is the entrance to an abandoned factory in [DATA EXPUNGED].",
+        "contain": "When handling SCP-004-2 through SCP-004-13, strict procedures must be followed. These items cannot be moved off-site without the presence of two Level 4 security personnel. No other component of SCP-004 should be taken through SCP-004-1 due to unknown effects and high costs of further experimentation. If any SCP-004 objects breach containment or if the facility is compromised, the keys must be brought inside and the door closed before activating Site 62's on-site warhead. Unauthorized removal of the keys from the testing area results in immediate termination. Level 1 clearance is required for basic access to SCP-004-1, while Level 4 clearance is needed for SCP-004-2 through -13."
+    },
+    {
+        "subject": "SCP-005",
+        "class": "Safe",
+        "img": "/media/SCP-005.jpg",
+        "desc": "In appearance, SCP-005 resembles an ornate key, displaying the characteristics of a typical mass produced key used in the 1920s. The key was discovered when a civilian used it to infiltrate a high security facility. SCP-005 seems to have the unique ability to open any and all forms of lock (See Appendix A), be they mechanical or digital, with relative ease. The origin of this ability has yet to be determined.",
+        "contain": "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object. Approval of at least one (1) Level 4 personnel is required for the removal of the object from its containment area."
+    },
+    {
+        "subject": "SCP-006",
+        "class": "Safe",
+        "img": "/media/SCP-006.webp",
+        "desc": "SCP-006 is a small spring located 60 km west of Astrakhan, which the Foundation could not secure until 1991 due to political issues. A chemical factory has been built on the site as a cover, with most workers under Foundation or Russian control. Although the liquid was identified as simple mineral water in 1902, it possesses extraordinary \"health\" properties. Consuming it enables humans to regenerate damaged DNA, enhances cellular replication, significantly improves tissue repair, and dramatically boosts immune system effectiveness. Testing on animals showed that hostile bacteria and viruses were instantly eradicated, while reptiles and birds showed no effect, and higher primates experienced similar benefits to humans.",
+
+        "contain": "Although SCP-006 does not need extensive containment, secrecy about its properties is critical. Personnel must wear modified Class VI BNC suits and be briefed with specific materials to conceal the true nature of SCP-006. Suits are checked for leaks by submerging personnel in water. Procedures with SCP-006 are monitored closely, and any contact triggers Procedure 006-Xi-12, which is falsely presented as a high-toxicity evacuation alert. Liquid extraction requires approval from three O5-level personnel and must be transported in a Quad-Sealant Container with armed guard. Any personnel who come into contact with SCP-006 or its liquid are to be confined and incinerated after study."
+    }
+]
