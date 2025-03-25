@@ -6,7 +6,7 @@ function NavMenu() {
         <nav>
             <div className='item' key='Home'>
                 <Link to={`/scp/Home`}>
-                <span>&#x1F3E0;</span> Home
+                <i class="bi bi-house"></i> Home
                 </Link>
             </div>
         </nav>
